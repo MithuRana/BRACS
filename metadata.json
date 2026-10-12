@@ -1,0 +1,8 @@
+{
+  "name": "Bendigo Refrigeration & Air Conditioning Services (BRACS)",
+  "description": "Premium heating, cooling, HVAC and commercial refrigeration services for Bendigo & Central Victoria. Trusted Mitsubishi Electric Diamond Dealer established in 1982.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
